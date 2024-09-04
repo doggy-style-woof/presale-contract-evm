@@ -1,0 +1,15 @@
+node_modules
+coverage
+coverage.json
+typechain
+contracts.json
+keys.json
+.gitbook.yaml
+gas-report
+slither-results.json
+.env
+.idea
+cache
+artifacts
+/typechain-types/
+\.deps
